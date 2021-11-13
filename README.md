@@ -2,7 +2,7 @@
 
 <br>
 
-![barner](./assets/images/barner.png)
+![barner](./docs/assets/images/barner.png)
 
 <br>
 
@@ -12,5 +12,5 @@
 
 <br>
 
-[Inicio](index.md)
+[Inicio](./docs/index.md)
 
