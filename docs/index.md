@@ -1,17 +1,19 @@
-# Consolas y Juegos
+# **Consolas y Juegos**
 
 ![imagen de Perfil](./assets/images/imagen1.png)
 
 <br>
 
-## Menú
-
-[Consolas](./about.md) <br/>
-[Juegos de Nueva Generación](./services.md) <br/>
+## *Menú*
 
 <br>
 
-## Un poco de Historia
+- [Consolas](./about.md) <br/>
+- [Juegos de Nueva Generación](./services.md) <br/>
+
+<br>
+
+## *Un poco de Historia*
 
 <br>
 
@@ -27,5 +29,5 @@ Una videoconsola es un pequeño sistema electrónico que está diseñado para ej
 
 <br>
 
-##### Información tomada como práctica del siguiente enlace: <a href= "https://es.wikipedia.org/wiki/Videoconsola"> Wikipedia.
+- ##### Información tomada como práctica del siguiente enlace: <a href= "https://es.wikipedia.org/wiki/Videoconsola"> Wikipedia.
 

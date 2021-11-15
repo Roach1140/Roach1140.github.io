@@ -1,8 +1,8 @@
-# Juegos de Nueva Generación
+# **Juegos de Nueva Generación**
 
 ![imagen de Perfil](./assets/images/battlefield.png)
 
-## Battlefield 2042
+## *Battlefield 2042*
 
 <br>
 
@@ -16,7 +16,7 @@ Battlefield 2042 ambienta su acción en un futuro cercano transformado por el de
 
 ![imagen de Perfil](./assets/images/callofduty2021.png)
 
-## Call of Duty Vanguard
+## *Call of Duty Vanguard*
 
 <br>
 
@@ -26,7 +26,7 @@ Call of Duty: Vanguard lleva de vuelta la saga de acción bélica de Activision 
 
 ![imagen de Perfil](./assets/images/godofwarragnarok.png)
 
-## God of War: Ragnarok
+## *God of War: Ragnarok*
 
 <br>
 
@@ -38,9 +38,9 @@ El desarrollo de God of War: Ragnarok empezó poco después del lanzamiento del 
 
 <br>
 
-[Regresar...](index.md)
+- [Regresar...](index.md)
 
 <br>
 
-##### Información tomada como práctica del siguiente enlace: <a href= "https://www.3djuegos.com/37588/god-of-war-ragnarok/"> 3dJuegos.
+- ##### Información tomada como práctica del siguiente enlace: <a href= "https://www.3djuegos.com/37588/god-of-war-ragnarok/"> 3dJuegos.
 
